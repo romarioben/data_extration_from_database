@@ -1,0 +1,347 @@
+id,deleted_at,restored_at,nom,unite,min_val,max_val,default,examen_id
+1,,,Hémoglobine,text,,,,1
+2,,2024-07-29 11:07:33+01,Groupe Sanguin,text,,,"",3
+3,,,Rhésus,text,,,"",3
+4,,,GE,text,,,,4
+6,,,Calcémie,mg/L,86,102,"",5
+7,,,Magnésémie,mg/L,16,26,,6
+8,,,Sodium,mmol/L,135,145,"",7
+9,,,Potassium,mmol/L,3.5,5.5,"",7
+10,,,Chlore,mmol/L,98,108,"",7
+11,,,Urée,g/L,0.13,0.43,,8
+12,,,C,mg/l,,6,2,9
+13,,,Status,text,,,"",9
+14,,,Réactif,text,,,OMEGA,9
+15,,,Status,text,,,,10
+16,,,Titre,ui/l,,200,100,10
+17,,,Réactif,text,,,SPECTRUM,10
+18,,,Lot,text,,,,10
+19,,,Glycémie à jeun,g/l,0.7,1.1,,11
+20,,,Glycémie pp,g/l,,1.4,,12
+21,,,Créatininémie,mg/L,7,15,,13
+22,,,Triglycérides,g/l,0.4,1.4,,14
+23,,,Cholestérol Total,g/l,,2,,15
+24,,,Cholestérol HDL,g/l,0.35,,,16
+25,,,Cholestérol LDL,g/l,,1.5,,17
+26,,,Uricémie,mg/L,30,57,,18
+27,,,Transaminase GOT,UI/l,,45,,19
+28,,,Transaminase  GPT,UI/l,,49,,20
+29,,,GAMMA- GT,UI/l,15,55,,21
+30,,,Phosphorémie,mg/L,27,45,,22
+31,,,Phosphatase alcaline,UI/l,,,"",23
+32,,,Protidémie,g/l,60,80,,24
+34,,,Bilirubine totale,mg/L,,,"",26
+35,,,Bilirubine conjuguée,mg/L,,2,,27
+36,,,Status,text,,,Négatif,28
+37,,,Réactif,text,,,SPECTRUM,28
+38,,,Lot,text,,,,28
+39,,,Status,text,,,,29
+40,,,Réactif,text,,,WONDFO,29
+41,,,Lot,text,,,,29
+42,,,Procalcitonine,ng/mL,,0.5,,30
+44,,,IgM,UL/ml,,10,,31
+5,,,DP,Trophozoïtes /μl de sang,,1,"",4
+46,,,Status,text,,,,32
+47,,,Réactif,text,,,MICROPOINT,32
+48,,,Lot,text,,,"",32
+49,,,D-dimères,ng/mL,0,500,,33
+50,,,Nombre de blancs,GB/mm3,4000,8000,,34
+51,,,Plaquettes,G/L,150,400,"",35
+52,,,Réticulocytes,G/L,20,80,"",36
+53,,,Titre,mUI/ml,,,,37
+54,,,Status,text,,,,38
+55,,,Réactif,text,,, SPECTRUM,38
+56,,,Lot,text,,,,38
+57,,,Hémoglobinurie,,,,"",39
+58,,,Glucosurie,,,,"",39
+59,,,Acétonurie,,,,"",39
+60,,,Leucocyturie,,,,"",39
+61,,,Protéinurie,,,,"",39
+62,,,Nitrite,,,,"",39
+63,,,Bilirubine,,,,"",39
+64,,,Urobilinogene,,,,"",39
+65,,,PH,,,,"",39
+66,,,Densite,,,,"",39
+67,,,TP,%,80,100,,40
+68,,,INR,,,1,"",40
+69,,,TQ,s,8,13,,40
+70,,,TSH,µUI/mL,0.5,5,"",41
+71,,,Patient,s,30,40,"",42
+72,,,Témoin,s,30,40,,42
+73,,,1ère Heure,mm/h,,10,"",43
+74,,,2ème Heure,mm/h,,20,"",43
+75,,,Status,text,,,,44
+76,,,PSA,ng/mL,,,,45
+78,,,Capacité de Fixation,mg/L,2.5,4,,47
+79,,,Pourcentage de Saturation,%,25,45,,48
+80,,,G6PDH,UI/gHb,7,12,,49
+81,,,akop,text,,,,50
+82,,,Amylasémie ,UI/l,,85,,51
+84,,,LDH,UI/l,135,235,"",53
+85,,,Albumine Sérique,g/L,35,53,,54
+86,,,Lypasémie,UI/l,7,58,,55
+87,,,HbA1C,%,4,6.5,,56
+88,,,Hémoglobine,g/dl,13,17,"",57
+89,,,Hématocrite,%,36,54,"",58
+91,,,PSA Libre,ng/mL,,,,60
+92,,,Rapport(FPSA/TPSA),%,18,,,60
+93,,,Status,text,,,,61
+94,,,Réactif,text,,,,61
+95,,,Lot,text,,,,61
+96,,,Status,text,,,"",62
+97,,,Réactif1,text,,,DETERMINE HIV1/2,62
+98,,,Lot1,text,,,"",62
+99,,,Confirmation,text,,,"",62
+100,,,Réactif2,text,,,TRIDOT HIV1/2,62
+101,,,Lot2,text,,,"",62
+102,,,Conclusion,text,,,"",62
+103,,,TO,text,,,,63
+104,,,AO,text,,,,63
+77,,,FT4,pmol/l,12,22,"",46
+45,,,IgG,UL/ml,,10,"",31
+43,,,Technique,text,,,ELISADRG*,31
+105,,,BO,text,,,,63
+106,,,CO,text,,,,63
+107,,,TH,text,,,,63
+108,,,AH,text,,,,63
+109,,,BH,text,,,,63
+110,,,CH,text,,,,63
+111,,,Réactif,Text,,,BIORAD,63
+112,,,Conclusion,Text,,,"",63
+113,,,Status,Text,,,"",63
+114,,,Hématies,T/L,,,,64
+115,,,Hémoglobine,g/dl,,,,64
+116,,,Hématocrite,%,,,,64
+117,,,VGM,fL,,,,64
+118,,,TCMH,Pg,,,,64
+119,,,CCMH,g/dl,,,,64
+120,,,Leucocytes,G/L,,,,64
+121,,,Neutrophiles Pourcentage,%,,,,64
+122,,,Neutrophiles Valeur,G/L,,,,64
+123,,,Lymphocytes Pourcentage,%,,,,64
+124,,,Lymphocytes Valeur,G/L,,,,64
+125,,,Monocytes Pourcentage,%,,,,64
+126,,,Monocytes Valeur,G/L,,,,64
+127,,,Eosinophiles Pourcentage,%,,,,64
+128,,,Eosinophiles Valeur,G/L,,,,64
+129,,,Basophiles Pourcentage,%,,,,64
+130,,,Basophiles Valeur,G/L,,,,64
+131,,,Hématies,T/L,,,,65
+132,,,Hémoglobine,g/dl,,,,65
+133,,,Hématocrite,%,,,,65
+134,,,VGM,fL,,,"",65
+135,,,TCMH,Pg,,,"",65
+136,,,CCMH,g/dl,,,"",65
+137,,,Plaquettes,G/L,,,"",65
+138,,,Leucocytes,G/L,,,"",65
+139,,,Neutrophiles Pourcentage,%,,,"",65
+140,,,Neutrophiles Valeur,G/L,,,"",65
+141,,,Lymphocytes Pourcentage,%,,,"",65
+142,,,Lymphocytes Valeur,G/L,,,"",65
+143,,,Monocytes Pourcentage,%,,,"",65
+144,,,Monocytes Valeur,G/L,,,"",65
+145,,,Eosinophiles Pourcentage,%,,,"",65
+146,,,Eosinophiles Valeur,G/L,,,"",65
+147,,,Basophiles Pourcentage,%,,,"",65
+148,,,Basophiles Valeur,G/L,,,"",65
+149,,,Hématies,T/L,,,,66
+150,,,Hémoglobine,g/dl,,,,66
+151,,,Hématocrite,%,,,,66
+152,,,VGM,fL,,,,66
+153,,,TCMH,Pg,,,,66
+154,,,CCMH,g/dl,,,,66
+155,,,Plaquettes,G/L,,,,66
+156,,,Réticulocytes,G/L,,,,66
+157,,,Leucocytes,G/L,,,,66
+158,,,Neutrophiles Pourcentage,%,,,,66
+159,,,Neutrophiles Valeur,G/L,,,,66
+160,,,Lymphocytes Pourcentage,%,,,,66
+161,,,Lymphocytes Valeur,G/L,,,,66
+162,,,Monocytes Pourcentage,%,,,,66
+163,,,Monocytes Valeur,G/L,,,,66
+164,,,Eosinophiles Pourcentage,%,,,,66
+165,,,Eosinophiles Valeur,G/L,,,,66
+166,,,Basophiles Pourcentage,%,,,,66
+167,,,Basophiles Valeur,G/L,,,,66
+168,,,PENICILINE G,text,,,,67
+169,,,AMPICILINE,text,,,,67
+170,,,AMOXICILLINE,text,,,,67
+171,,,AMOXI+AC CLAVULANIQUE,text,,,,67
+172,,,OXACILLINE,text,,,"",67
+173,,,METICILINE,text,,,,67
+174,,,TICARCILINNE+AC CLAVULANIQE,text,,,,67
+175,,,MELOCILLINE,text,,,,67
+176,,,MECILLINAM,text,,,,67
+177,,,CARBENICILLINE,text,,,,67
+178,,,CEFALOTINE,text,,,,67
+179,,,CEFADROXIL,text,,,,67
+180,,,CEFAPIRINE,text,,,,67
+181,,,CEFALOZINE,text,,,,67
+182,,,CEFOTAXIME,text,,,,67
+183,,,CEFUROINE,text,,,,67
+184,,,CEFOXITINE,text,,,,67
+185,,,CEFTRIAXONE,text,,,,67
+186,,,CEFIXIME ,text,,,,67
+187,,,CEFTEZIDINE,text,,,,67
+188,,,IMIPENEM,text,,,,67
+189,,,ERTHAPENEM,text,,,,67
+190,,,AZTREONAM,text,,,,67
+191,,,GENTAMYCINE,text,,,,67
+192,,,NETILMICINE,text,,,,67
+193,,,TOERAMYCINE,text,,,,67
+194,,,NEOMYCINE,text,,,,67
+195,,,AMIKACINE,text,,,,67
+196,,,STREPTOMYCINE,text,,,,67
+197,,,KANAMYCINE,text,,,"",67
+198,,,DIBEKACINE,text,,,,67
+199,,,CHRORAMPHENIC OL,text,,,,67
+200,,,TETRACYCLINES,text,,,,67
+201,,,DOXYCICLINE,text,,,,67
+202,,,MINOCYCLINE,text,,,,67
+203,,,ERYTROMYCINE,text,,,,67
+204,,,SPIRAMYCINE,text,,,,67
+205,,,OLEANDOMYCINE,text,,,,67
+206,,,LINCOMYCINE,text,,,,67
+207,,,CLINDAMYCINE,text,,,,67
+208,,,VIRGINIAMYCINE,text,,,,67
+209,,,PRISTANAMYCINE,text,,,,67
+210,,,AC NALIDICIQUE,text,,,,67
+211,,,AC PIPEMIDIQUE,text,,,,67
+212,,,FLUMEQUINE,text,,,,67
+213,,,PEFLOXACINE,text,,,,67
+214,,,NORFLOXACINE,text,,,,67
+215,,,OFLOXACINE,text,,,,67
+216,,,CIPROFLOXACINE,text,,,,67
+217,,,NIFROXOLINE,text,,,,67
+218,,,TELCOPLAMINE,text,,,"",67
+219,,,VANOMYCINE,text,,,,67
+220,,,FURANES,text,,,,67
+221,,,COTRIMOXAZOLE,text,,,,67
+222,,,SULFLADOXINE,text,,,,67
+223,,,TRIMETOPRIME,text,,,,67
+224,,,POLYMYCINE,text,,,,67
+225,,,COLISTINE,text,,,,67
+226,,,RIFAMPICINE,text,,,,67
+227,,,AC FUCIDIQUE,text,,,,67
+228,,,FOSFOMYCINE,text,,,,67
+229,,,PH,"",,,,68
+230,,,Etat frais,text,,,,68
+463,,,Troponine I,ng/mL,0,0.3,,166
+232,,,Gram,text,,,,68
+233,,,Bactériurie,text,,,,68
+234,,,Culture,text,,,,68
+235,,,Conclusion,text,,,,68
+236,,,% de formes typiques,%,40,,,69
+237,,,% de formes atypiques,%,,,"",69
+238,,,Microcéphales,%,,,,69
+239,,,Macrocéphales,%,,,,69
+240,,,Bicéphales,%,,,,69
+241,,,Bifides,%,,,,69
+242,,,Sans queue,%,,,,69
+243,,,Pièce intermédiaire Grêle,%,,,,69
+244,,,Pièce intermédiaire angulée,%,,,,69
+245,,,Flagelles courts,%,,,,69
+246,,,Flagelles angulés,%,,,,69
+247,,,Flagelles enroulés,%,,,,69
+248,,,Flagelles sans tête,%,,,,69
+249,,,Conclusion,text,,,,69
+250,,,Volume,ml,2,6,,70
+251,,,Couleur,text,,,Blanc laiteux,70
+252,,,Odeur,text,,,Eau de Javel,70
+253,,,Viscosité,text,,,Translucide,70
+254,,,PH,"",,,,70
+255,,,Densité,"",,,,70
+256,,,Numérisation,spermatozoïdes/ml,15000000,,,70
+257,,,% à Mobilité linéaire et rapide 30 min,%,,,,70
+258,,,% à Mobilité linéaire et rapide 1h,%,,,,70
+259,,,% à Mobilité linéaire et rapide 2h,%,,,,70
+260,,,% à Mobilité linéaire et rapide 3h,%,,,,70
+261,,,% à Mobilité linéaire et rapide 4h,%,,,,70
+262,,,% à Mobilité progressive 30min,%,,,,70
+263,,,% à Mobilité progressive 1h,%,,,,70
+264,,,% à Mobilité progressive 2h,%,,,,70
+265,,,% à Mobilité progressive 3h,%,,,,70
+266,,,% à Mobilité progressive 4h,%,,,,70
+267,,,% à Mobilité non progressive 30 min,%,,,,70
+268,,,% à Mobilité non progressive 1h,%,,,,70
+269,,,% à Mobilité non progressive 2h,%,,,,70
+270,,,% à Mobilité non progressive  3h,%,,,,70
+271,,,% à Mobilité non progressive 4h,text,,,,70
+272,,,% de forme immobile 30min,%,,,,70
+273,,,% de forme immobile 1h,%,,,,70
+274,,,% de forme immobile 2h,%,,,,70
+275,,,% de forme immobile 3h,%,,,,70
+276,,,% de forme immobile 4h,%,,,,70
+277,,,Vitalité 1H,% de formes vivantes,58,,,70
+278,,,Mobilité totale(1H),%,40,,,70
+279,,,Cellules rondes,de cellules rondes/ml,,1000000,,70
+280,,,Leucocytes,leucocytes/ml,,1000000,,70
+281,,,Conclusion,text,,,"Très faibles spermatozoïdes observés à l’hématimètre,nombre
+insuffisant pour évaluer avec précision la concentration et la valeur
+absolue.On note une ologospermie extrême",70
+283,,,PH,"",,,,71
+284,,,Etat frais,text,,,"",71
+285,,,Leucospermie, leucocytes / ml de sperme ,,,,71
+286,,,Gram,text,,,,71
+287,,,Bactériospermie,text,,,,71
+288,,,Culture,text,,,,71
+289,,,Conclusion,text,,,,71
+290,,,Technique,text,,,Biomerieux vidas,72
+291,,,IgM,Ul/ml,,0.5,,72
+292,,,IgG,Ul/ml,,0.6,,72
+293,,,Conclusion,text,,,,72
+294,,,Technique,text,,,Biomerieux vidas,73
+297,,,Conclusion,Text,,,"",73
+304,,,Volume,ml,,,,78
+310,,,T3,nmol/L,1.3,3.1,,87
+311,,,T4,nmol/L,66,181,,88
+312,,,Vitamine D,ng/mL,30,100,,89
+313,,,Nombres de globules blancs,mm³,,,,91
+314,,,Gram,text,,,,91
+315,,,Protéinorachie,g/L,,,"",92
+316,,,Glucorachie,g/L,,,,92
+317,,,ATSHR,UI/L,0,1.75,,93
+318,,,Anti TG,UI/mL,0,115,,94
+319,,,Anti TPO,UI/ml,0,34,,95
+324,,,LH,mUI/ml,,,,76
+325,,,Progestérone,ng/ml,,,,77
+326,,,Estradiol E2,ng/ml,,,,79
+327,,,Estrone E1,ng/ml,,,,80
+328,,,Prolactine,ng/mL,,,"",81
+298,,,Protéinurie des 24h,,,150,"",74
+295,,,IgM,Index,,1.2,"",73
+296,,,IgG,Index,,4.9,"",73
+305,,,C,mg/24h,,30,"",78
+329,,,CA 125,UI/mL,0,35,"",82
+330,2024-10-18 13:15:00.06942+01,,CA125,UI/ml,0,35,,83
+320,,,Testonorémine totale,ng/mL,1.93,7.4,,25
+90,,,Free Tri-IodoThyronine,pmol/l,3.5,7,"",59
+364,,,Conclusion,text,,,"",31
+231,,,Leucocyturie,.10³ leucocytes / ml d'urine,,,"",68
+397,,,Transferrine,g/L,2,3.6,,100
+430,,,Fer Sérique,mg/L,0.5,1.6,,133
+496,,,IgE,KUI/L,0,150,,199
+497,,,Pro BNP,pg/mL,0,300,"",200
+529,,,ACE,ng/mL,0,4.7,,232
+628,2025-04-24 17:09:58.107266+01,,Cortisolémie,text,140,550,,331
+562,,,AFP,ng/ml,0,7,"",265
+563,2025-03-04 21:53:47.347035+01,,Nomindice,text,,,,266
+398,,,Ferritinémie,ng/mL,13,150,"",101
+595,,,Hémoculture,KUI/L,12,123,,298
+83,,,CPK,UI/l,25,195,"",52
+661,2025-04-24 17:11:47.415436+01,,Cortisolémie,text,,,,364
+33,,,FSH,ng/mL,1.93,7.4,,75
+662,,,Cortisolémie,nmol/l,140,550,,365
+331,,,Diurèse,ml,,,"",74
+697,,,Créatininémie,mg/L,867,1134,,398
+694,,,Sodium,mEq/24h,100,300,"",397
+695,,,Potassium,mEq/24h,50,100,"",397
+696,,,Chlore,mEq/24h,169,254,"",397
+727,,,AMH,ng/ml,0.3,2.9,,430
+728,,,Etat  frais,text,,,,431
+729,,,PH,"",,,,431
+730,,,Score de Nugent,"",,,,431
+731,,,Gram,text,,,,431
+732,,,Culture,text,,,,431
+733,,,Mycologie,text,,,,431
+734,,,Anti-fungigramme,text,,,,431
